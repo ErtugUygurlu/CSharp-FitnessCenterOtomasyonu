@@ -1,0 +1,16 @@
+C:\Users\Win10\source\repos\windowsform\FitnessCenterOtomasyonu\FitnessCenterOtomasyonu\bin\Debug\FitnessCenterOtomasyonu.exe.config
+C:\Users\Win10\source\repos\windowsform\FitnessCenterOtomasyonu\FitnessCenterOtomasyonu\bin\Debug\FitnessCenterOtomasyonu.exe
+C:\Users\Win10\source\repos\windowsform\FitnessCenterOtomasyonu\FitnessCenterOtomasyonu\bin\Debug\FitnessCenterOtomasyonu.pdb
+C:\Users\Win10\source\repos\windowsform\FitnessCenterOtomasyonu\FitnessCenterOtomasyonu\obj\Debug\FitnessCenterOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Win10\source\repos\windowsform\FitnessCenterOtomasyonu\FitnessCenterOtomasyonu\obj\Debug\FitnessCenterOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win10\source\repos\windowsform\FitnessCenterOtomasyonu\FitnessCenterOtomasyonu\obj\Debug\FitnessCenterOtomasyonu.AnaSayfa.resources
+C:\Users\Win10\source\repos\windowsform\FitnessCenterOtomasyonu\FitnessCenterOtomasyonu\obj\Debug\FitnessCenterOtomasyonu.Login.resources
+C:\Users\Win10\source\repos\windowsform\FitnessCenterOtomasyonu\FitnessCenterOtomasyonu\obj\Debug\FitnessCenterOtomasyonu.Properties.Resources.resources
+C:\Users\Win10\source\repos\windowsform\FitnessCenterOtomasyonu\FitnessCenterOtomasyonu\obj\Debug\FitnessCenterOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Win10\source\repos\windowsform\FitnessCenterOtomasyonu\FitnessCenterOtomasyonu\obj\Debug\FitnessCenterOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\windowsform\FitnessCenterOtomasyonu\FitnessCenterOtomasyonu\obj\Debug\FitnessCenterOtomasyonu.exe
+C:\Users\Win10\source\repos\windowsform\FitnessCenterOtomasyonu\FitnessCenterOtomasyonu\obj\Debug\FitnessCenterOtomasyonu.pdb
+C:\Users\Win10\source\repos\windowsform\FitnessCenterOtomasyonu\FitnessCenterOtomasyonu\obj\Debug\FitnessCenterOtomasyonu.UyeEkle.resources
+C:\Users\Win10\source\repos\windowsform\FitnessCenterOtomasyonu\FitnessCenterOtomasyonu\obj\Debug\FitnessCenterOtomasyonu.Guncelle.resources
+C:\Users\Win10\source\repos\windowsform\FitnessCenterOtomasyonu\FitnessCenterOtomasyonu\obj\Debug\FitnessCenterOtomasyonu.UyeleriGoruntule.resources
+C:\Users\Win10\source\repos\windowsform\FitnessCenterOtomasyonu\FitnessCenterOtomasyonu\obj\Debug\FitnessCenterOtomasyonu.OdemeDGVV.resources
